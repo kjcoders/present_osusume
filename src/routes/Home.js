@@ -7,7 +7,7 @@ function Home() {
     <section className="home_page">
       <h1 class="text">Welcome to Present Osusume!</h1>
       <h3>We recommend the best gift for the person Who you love🎁</h3>
-      <Link to="/about">
+      <Link to="/main">
         <button className="btn_start">Let's go!</button>
       </Link>
     </section>
